@@ -1,5 +1,5 @@
 # ¿Cuales y donde se encuentran las empresas más antiguas del mundo? 
-![](https://github.com/BrenAhumada/The_Oldest_Businesses/blob/main/business_pic.jpg)
+![](Images/business_pic.jpg)
 
 Una parte importante del negocio es planificar el futuro y garantizar que **la empresa sobreviva a las condiciones cambiantes del mercado**. Algunas empresas hacen esto muy bien y duran cientos de años.
 
