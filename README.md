@@ -1,4 +1,4 @@
-# ¿Cuales y donde se encuentran las empresas más antiguas del mundo? 
+# ¿Cuáles y dónde se encuentran las empresas más antiguas del mundo? 
 ![](Images/business_pic.jpg)
 
 Una parte importante del negocio es planificar el futuro y garantizar que **la empresa sobreviva a las condiciones cambiantes del mercado**. Algunas empresas hacen esto muy bien y duran cientos de años.
@@ -7,23 +7,23 @@ BusinessFinancing.co.uk [investigó](https://businessfinancing.co.uk/the-oldest-
 
 ## Instrucciones
 
-☑️ Seleccionar los años de fundación más antiguos y más nuevos de la tabla de empresas
+☑️ Seleccionar los años de fundación más antiguos y más nuevos de la tabla de empresas.
 
 ☑️ ¿Cuántas empresas se fundaron antes del año 1000?
 
 ☑️ ¿Qué empresas se fundaron antes del año 1000?
 
-☑️ Explorar las categorías
+☑️ Explorar las categorías.
 
-☑️ Contar las categorías
+☑️ Contar las categorías.
 
-☑️ Identificar cuál el negocio más antiguo por continente
+☑️ Identificar cuál el negocio más antiguo por continente.
 
-☑️ Unir todas las tablas para un mayor análisis
+☑️ Unir todas las tablas para un mayor análisis.
 
-☑️ Contar las categorías por continente
+☑️ Contar las categorías por continente.
 
-☑️ Filtrar los recuentos por continente y categoría
+☑️ Filtrar los recuentos por continente y categoría.
 
 
 # What and Where are the World's Oldest Businesses?
@@ -34,23 +34,23 @@ BusinessFinancing.co.uk [researched](https://businessfinancing.co.uk/the-oldest-
 
 ## Instructions
 
-☑️ Select the oldest and newest founding years from the businesses table
+☑️ Select the oldest and newest founding years from the businesses table.
 
 ☑️ How many businesses were founded before 1000?
 
 ☑️ Which businesses were founded before 1000?
 
-☑️ Exploring the categories
+☑️ Exploring the categories.
 
-☑️ Counting the categories
+☑️ Counting the categories.
 
-☑️ Oldest business by continent
+☑️ Oldest business by continent.
 
-☑️ Joining everything for further analysis
+☑️ Joining everything for further analysis.
 
-☑️ Counting categories by continent
+☑️ Counting categories by continent.
 
-☑️ Filtering counts by continent and category
+☑️ Filtering counts by continent and category.
 
 
 ![](https://github.com/BrenAhumada/The_Oldest_Businesses/blob/main/Images/lets_goo.png)
